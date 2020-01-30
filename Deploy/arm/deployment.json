@@ -3,8 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "servicePrincipalId": {
-      "type": "string",
-      "defaultValue": "abd07112-2474-483f-8b21-eb46c687c3a2"
+      "type": "string"
     },
     "servicePrincipalSecret": {
       "type": "securestring"
