@@ -9,7 +9,8 @@
       "type": "securestring"
     },
     "aksVersion": {
-      "type": "string"
+      "type": "string",
+      "defaultValue": "1.14.8"
     },
     "components_app_insights_name": {
       "defaultValue": "tt-app-insights",
